@@ -1,0 +1,55 @@
+html {
+    padding: 8px;
+}
+
+body {
+    background-color: azure;
+    padding: 8px;
+}
+
+h1 {
+    margin: 8px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    margin-left: 30px;
+}
+
+img {
+    float: right;
+    margin: 8px 8px 8px 30px;
+    border: 3px darkgoldenrod solid;
+}
+
+header{
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    text-align: center;
+    border: darkgoldenrod 3px solid;
+    background-color: gray;
+    text-decoration: underline;
+}
+
+footer {
+    position: sticky;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    border: darkgoldenrod 3px solid;
+    background-color: gray;
+}
+
+.home-button {
+    margin: 8px 0px;
+}
+
+li {
+    margin-right: 30px;
+}
